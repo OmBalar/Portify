@@ -1,0 +1,41 @@
+h3{
+    font-family: 'Alegreya', sans black;
+    font-weight: 2900;
+    color: white;
+    text-align: center;
+    font-size: 36px;
+}
+
+input::placeholder {
+  font-family: 'Alegreya', sans black;
+  color: black;
+  font-size: 16px;
+  padding: 10px;
+}
+
+#txtbox{
+     width: 50%;
+     height: 40px;
+     text-align: center;
+     font-family: 'Alegreya', sans black;
+     color: black;
+     margin-left: 25%;
+     margin-right: 25%;
+}
+
+#loginbutton{
+    width: 20%;
+    height: 40px;
+    background-color: #55C2C3;
+    font-family: 'Alegreya', sans black;
+    color: white;
+    font-size: 16px;
+    margin-left: 1%;
+}
+
+label.errorLabel{
+  font-family: 'Alegreya', sans black;
+  color: rgb(206, 29, 29);
+  text-align: center;
+  font-size: 16px;
+}
